@@ -1,5 +1,11 @@
-# TPGI
-TPGI is an efficient solver for the inverse kinematics of cable-driven manipulators with pure rolling joints using a geometric iterative approach.
+# An efficient solver for the inverse kinematics of cable-driven manipulators with pure rolling joints using a geometric iterative approach
+
+This repository contains the source code for the paper [An efficient solver for the inverse kinematics of cable-driven manipulators with pure rolling joints using a geometric iterative approach](https://www.sciencedirect.com/science/article/pii/S0094114X24000387). This paper has been accepted to [Mechanism and Machine Theory](https://www.sciencedirect.com/journal/mechanism-and-machine-theory) (SCI Q1, IF=5.2).
+
+![abstract_fig]()
+
+# Important
+
 
 ##  About the Author
 Haotian Yang currently working toward the M.S. degree in Electronic Information (Artificial Intelligence) with Center of Intelligent Control and Telescience, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. His research interests include kinematics and dynamics of robots, robotic manipulation, and deep reinforcement learning.
