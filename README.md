@@ -19,7 +19,7 @@ doi = {https://doi.org/10.1016/j.mechmachtheory.2024.105611}
 
 ##  About the Author
 
-Haotian Yang currently working toward the M.S. degree in Electronic Information (Artificial Intelligence) with Center of Intelligent Control and Telescience, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. His research interests include kinematics and dynamics of robots, robotic manipulation, and deep reinforcement learning.
+Haotian Yang currently working toward the M.S. degree in Electronic Information (Artificial Intelligence) with Center of Intelligent Control and Telescience, Tsinghua Shenzhen International Graduate School, Tsinghua University, Shenzhen, China. His research interests include kinematics and dynamics of robots, robot manipulation, and deep reinforcement learning.
 
 ## Dependencies
 
