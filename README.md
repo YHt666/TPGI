@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper [An efficient solver for the inverse kinematics of cable-driven manipulators with pure rolling joints using a geometric iterative approach](https://www.sciencedirect.com/science/article/pii/S0094114X24000387). This paper has been accepted to [Mechanism and Machine Theory](https://www.sciencedirect.com/journal/mechanism-and-machine-theory) (SCI Q1, IF=5.2).
 
-![abstract_fig](/asset/abstract_fig.jpg "surrogate model")
+<img src="/asset/abstract_fig.jpg" width="75%" height="auto">
 
 ## Cite this work
 
